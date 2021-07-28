@@ -1,2 +1,2 @@
-# Iterative wavefront-shaping Algorithm
-Python code for simulation and application of various algorithms; used in focusing of light through scattering media. 
+#Aim:
+In this project our aim was to focus light after it passes from a scattering media. Here are python codes for various iterative wavefront shaping algorithms both through simulation and experiment using a binary Spatial Light Modulator (SLM).
