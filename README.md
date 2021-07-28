@@ -5,8 +5,8 @@ In this project our aim was to focus light after it passes from a scattering med
 
 **1.  Step-wise Sequential Algorithm:**
 
-_SSA simulation_ is the python code for simulating stepwise sequential algorithm.
+_**SSA simulation**_ is the python code for simulating stepwise sequential algorithm.
 
-_SSA experiment_ is the python code for integrating stepwise sequential algorithm with the experimental setup (consisting of a 'Basler' CCD camera and a '' Binary SLM)
+**_SSA experiment**_ is the python code for integrating stepwise sequential algorithm with the experimental setup (consisting of a 'Basler' CCD camera and a '' Binary SLM)
 
 **2. Genetic Algorithm:**
